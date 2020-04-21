@@ -13,6 +13,7 @@ GhostNet改造的目标检测
 
 您还可以把 GhosetNet的AuxiliaryConvolutions 换成/MobileNetV3-SSD-Compact-Version里面的AuxiliaryConvolutions
 GhosetNet的AuxiliaryConvolutions 是非常古老的写法.
-代码里有不同的feature map您任选
+代码里有不同的feature map您任选 可以改成 
+19, 10, 5,3,2,1等
 
 其他操作步骤与MobileNetV3-SSD-Compact-Version一模一样.
